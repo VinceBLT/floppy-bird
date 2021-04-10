@@ -1,2 +1,2 @@
 # floppy-bird
-Game in JavaScript inspired by the famous Flappy Bird 🐦
+Game in JavaScript / Canvas inspired by the famous Flappy Bird 🐦
